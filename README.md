@@ -59,6 +59,7 @@ This information is then formatted, sent to the screen and the output file
 
 ### Validation
 The program output was compared to a pivot table based on the same data
+
 [Pivot Results](Analysis/Pivot_Validation.PNG)
 
 confirmed:
