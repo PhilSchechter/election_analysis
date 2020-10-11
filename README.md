@@ -1,7 +1,18 @@
 # election_analysis
 data analytics course module 3
-PyPoll.py
+PyPoll_challenge.py
 written in Python 3.7
+
+## Purpose of audit
+This project is to provide automatic, traceable results based on the raw election returns
+This analysis can be used to verify results tabulated manually, or through other means,
+such as an Excel pivot table.
+
+As little as possible was hardcoded; for example, the candidate names and
+counties were read in from the input file, not entered directly into the code
+
+## Election Results
+
 
 ## Source of Data
 A csv, titled **Election_Results.csv** containing 3 columns with headers:
